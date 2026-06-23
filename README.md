@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Indulekha 👋
 
-<!--
-**indulekhak/indulekhak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Electrical and Computer Engineering Student at Amrita Vishwa Vidyapeetham
 
-Here are some ideas to get you started:
+💻 Interested in:
+- Embedded Systems
+- C Programming
+- Python
+- SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Technologies:
+- C
+- Python
+- SQL
+- Arduino
+- ESP32
+- MATLAB
+
+🚀 Projects:
+- Interactive Word Ladder Using BFS
+- ESP32 Face Recognition Door Lock
+- Smart Borewell Water Quality Monitoring System
+- Accident Detection and Alert System
+
+📫 Connect with me on LinkedIn  :www.linkedin.com/in/indulekha-k-5b95b1326
